@@ -1,0 +1,4 @@
+autoembed
+=========
+
+oembed autodetection library
